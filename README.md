@@ -53,5 +53,5 @@ See `BASE PAPER/A System for Automated Vehicle Damage.pdf` for more background o
 
 ## License
 
-This project is intended for educational use. Please adapt the license to your requirements.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it as permitted under that license.
 
